@@ -1,4 +1,3 @@
-package br.com.dasa.tdd.dominio;
 
 public class Lance {
 
