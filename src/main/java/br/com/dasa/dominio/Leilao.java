@@ -1,3 +1,4 @@
+package br.com.dasa.dominio;
 
 
 import java.util.ArrayList;

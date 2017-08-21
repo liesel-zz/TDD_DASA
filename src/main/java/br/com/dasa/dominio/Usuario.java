@@ -1,4 +1,4 @@
-package dominio;
+package br.com.dasa.dominio;
 
 
 public class Usuario {

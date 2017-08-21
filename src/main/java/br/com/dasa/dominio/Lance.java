@@ -1,3 +1,5 @@
+package br.com.dasa.dominio;
+
 
 public class Lance {
 
