@@ -15,7 +15,7 @@ public class Lance {
 		return usuario;
 	}
 
-	public double getValor() {
+	public double getValor() {	
 		return valor;
 	}
 	
